@@ -52,6 +52,9 @@ header span{
 
 .navbar a:hover{
     color: black;
+    background-color: white;
+    border-radius: 20px 50px 20px 50px;
+    padding: 9px;
 }
 
 .home{
@@ -160,6 +163,10 @@ html{
     height: 100%;
     color: rgb(7, 7, 7);
     text-align: justify;
+}
+
+.nome-home {
+    color: green;
 }
 
 .servicos{
